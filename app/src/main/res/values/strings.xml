@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC  Mitolu</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+
+    <string name="name">Israel Mitolu Odetunde</string>
+    <string name="track">Track:     Android</string>
+    <string name="country">Country:     Nigeria</string>
+    <string name="email">Email:     israelmitolu@gmail.com</string>
+    <string name="phone">Phone Number:      2348148751013</string>
+    <string name="slack">Slack Username:        @Mitolu</string>
+</resources>
